@@ -9,3 +9,5 @@ https://www.securityweek.com/fbi-warns-blackbyte-ransomware-attacks-critical-inf
 https://therecord.media/san-francisco-49ers-confirm-ransomware-attack/
 
 https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/fbi-and-usss-release-advisory-blackbyte-ransomware
+
+https://www.advintel.io/post/hydra-with-three-heads-blackbyte-the-future-of-ransomware-subsidiary-groups
